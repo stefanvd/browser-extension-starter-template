@@ -1,0 +1,5 @@
+﻿{
+    "name": {"message": "Starter"},
+    "description": {"message": "The starter template for Google Chrome"},
+    "titleredborder": {"message": "Show red border"}
+}
