@@ -5,7 +5,7 @@ and for other browsers such as
 Google Chrome, Firefox, Opera, Safari, Maxthon, Yandex, Brave, Vivaldi, Cốc Cốc, Microsoft Edge, and Naver Whale.
 
 ## For who?
-This is the starter template for new beginner developers (students, front-end developer, etc), fresh developers that want to get started with building an amazing web experience in their web browser. This template includes all the basics you need with a concisely writing tool and dark mode support. And easy export function to upload it to the web store.
+This is the starter template for new beginner developers (students, front-end developers, etc), fresh developers that want to get started with building an amazing web experience in their web browser. This template includes all the basics you need with a concisely writing tool and dark mode support. And easy export function to upload it to the web store.
 
 ## What I need to learn?
 + You need to learn only the vanila JavaScript
