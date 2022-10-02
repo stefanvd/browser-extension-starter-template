@@ -5,7 +5,7 @@ and for other browsers such as
 Google Chrome, Firefox, Opera, Safari, Maxthon, Yandex, Brave, Vivaldi, Cốc Cốc, Microsoft Edge, and Naver Whale.
 
 ## For who?
-This is the starter template for new developers, fresh developers that want to get started with building an amazing web experience in their web browser. This template includes all the basics you need with a concisely writing tool and dark mode support. And easy export function to upload it to the web store.
+This is the starter template for new beginner developers (students, front-end developer, etc), fresh developers that want to get started with building an amazing web experience in their web browser. This template includes all the basics you need with a concisely writing tool and dark mode support. And easy export function to upload it to the web store.
 
 ## What I need to learn?
 + You need to learn only the vanila JavaScript
@@ -26,12 +26,14 @@ Support for Windows and Mac
 + One command to package the zip file for the Chrome Web Store
 
 # How to get started?
-1. Open <strong>Terminal</strong> (on Mac) and <strong>Prompt</strong> (on Windows)
-2. Type `git clone`, and then paste the URL you copied earlier.
+1. Install Node.js on Mac and Windows (if you do not have installed)
+https://nodejs.org/en/download/
+2. Open <strong>Terminal</strong> (on Mac) and <strong>Prompt</strong> (on Windows)
+3. Type `git clone`, and then paste the URL you copied earlier.
 ```
 git clone https://github.com/stefanvd/browser-extension-starter-template
 ```
-3. Press `Enter` to create your local clone.
+4. Press `Enter` to create your local clone.
 
 # Packaging
 Run `npm run dist` to create a zipped, production-ready extension for each browser. You can then upload that to the web store.
