@@ -43,16 +43,16 @@ function addElement(id){
 		newDiv.style.left = "0";
 		newDiv.style.zIndex = "1000";
 		if(redborder == true){
-			newDiv.style.border = "5px solid red";	
+			newDiv.style.border = "5px solid red";
 		}
 		newDiv.innerText = "Element";
 		document.body.appendChild(newDiv);
 	});
 }
 
-function removeElement(id) {
-    var elem = document.getElementById(id);
-    return elem.parentNode.removeChild(elem);
+function removeElement(id){
+	var elem = document.getElementById(id);
+	return elem.parentNode.removeChild(elem);
 }
 
 if(document.getElementById("starter")){
