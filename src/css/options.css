@@ -35,4 +35,10 @@ To view a copy of this license, visit http://creativecommons.org/licenses/GPL/2.
 --ext-body-background:#fff;
 }
 
-body{background:var(--ext-body-background);color:var(--ext-primary-font-color);font-family:Arial,sans-serif;cursor:default;font-size:16px}
+body{background:var(--ext-body-background);
+    color:
+    var(--ext-primary-font-color);
+    font-family:Arial,sans-serif;
+    cursor:default;
+    font-size:16px
+}
