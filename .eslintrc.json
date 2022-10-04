@@ -38,29 +38,6 @@
     },
     "globals": {
         "angular": "writable",
-        "exbrowser": "writable",
-        "linkredirectionoptions": "writable",
-        "linkcapturescreenshot": "writable",
-        "linkdeveloperwebsite": "writable",
-        "linkproduct": "writable",
-        "linkdonate": "writable",
-        "writereview": "writable",
-        "linkchangelog": "writable",
-        "linktranslate": "writable",
-        "linksupport": "writable",
-        "linkwelcome": "writable",
-        "linkuninstall": "writable",
-        "linkguide": "writable",
-        "linkbrowsertheme": "writable",
-        "browsernewtab": "writable",
-        "browserstore": "writable",
-        "linkyoutube": "writable",
-        "linkauroraplayerapp": "writable",
-        "linktotlmobileapp": "writable",
-        "linkgamepad": "writable",
-        "devmode": "writable",
-        "devdonate": "writable",
-        "Chart": "readonly",
-        "speechsetplay": "writable"
+        "exbrowser": "writable"
     }
 }

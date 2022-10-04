@@ -13,32 +13,30 @@ of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
-Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
 
 
 To view a copy of this license, visit http://creativecommons.org/licenses/GPL/2.0/
 
 //================================================
 */
-
-.dark{
---ext-primary-font-color:#fff;
---ext-body-background:#111111;
+.dark {
+    --ext-primary-font-color: #fff;
+    --ext-body-background: #111111;
 }
-.light{
---ext-primary-font-color:#000;
---ext-body-background:#fff;
+.light {
+    --ext-primary-font-color: #000;
+    --ext-body-background: #fff;
 }
-
-body{background:var(--ext-body-background);
-    color:
-    var(--ext-primary-font-color);
-    font-family:Arial,sans-serif;
-    cursor:default;
-    font-size:16px
+body {
+    background: var(--ext-body-background);
+    color: var(--ext-primary-font-color);
+    font-family: Arial, sans-serif;
+    cursor: default;
+    font-size: 16px;
 }
