@@ -38,6 +38,8 @@
     },
     "globals": {
         "angular": "writable",
-        "exbrowser": "writable"
+        "exbrowser": "writable",
+        "browserstore": "writable",
+        "browsernewtab": "writable"
     }
 }
